@@ -42,7 +42,7 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/elei-oes.git
+    git clone https://github.com/evertonreis1/elei-oes.git
     cd elei-oes
     ```
 
